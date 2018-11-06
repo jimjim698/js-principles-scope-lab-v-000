@@ -8,4 +8,5 @@ function upperCaseCustomerName(){
 
 setBestCustomer(){
   bestCustomer = 'not bob'
+  return bestCustomer
 }
